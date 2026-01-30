@@ -2,10 +2,10 @@
 
 Currently building at @secure_bags
 
-🎨 Figma
-🤖 Claude Code / Cursor
-🌐 Framer
-🧑🏻‍💻 React / Javascript / HTML / CSS / Tailwind
+- 🎨 Figma
+- 🤖 Claude Code / Cursor
+- 🌐 Framer
+- 🧑🏻‍💻 React / Javascript / HTML / CSS / Tailwind
 
 <!--
 **lipefxo/lipefxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
